@@ -1,0 +1,8 @@
+/projects/ag-stetter/wgrs_amaranth/bams_withRG_ahyp_v2/PI642741.bam
+/projects/ag-stetter/wgrs_amaranth/bams_withRG_ahyp_v2/PI481965.bam
+/projects/ag-stetter/wgrs_amaranth/bams_withRG_ahyp_v2/PI490612.bam
+/projects/ag-stetter/wgrs_amaranth/bams_withRG_ahyp_v2/PI649217.bam
+/projects/ag-stetter/wgrs_amaranth/bams_withRG_ahyp_v2/PI511681.bam
+/projects/ag-stetter/wgrs_amaranth/bams_withRG_ahyp_v2/Ames5302.bam
+/projects/ag-stetter/wgrs_amaranth/bams_withRG_ahyp_v2/PI511712.bam
+
